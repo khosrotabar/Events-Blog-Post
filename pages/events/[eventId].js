@@ -1,5 +1,5 @@
 import { Fragment } from "react";
-import Head from "next/Head";
+import Head from "next/head";
 import Comments from "../../components/input/comments";
 
 import { getEventById, getFeaturedEvents } from "../../helpers/api-utils";
