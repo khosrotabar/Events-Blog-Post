@@ -1,5 +1,5 @@
 {
-  "name": "small-project-1",
+  "name": "event-blog-posts",
   "private": true,
   "scripts": {
     "dev": "next dev",
