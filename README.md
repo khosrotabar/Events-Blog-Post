@@ -16,7 +16,7 @@
 - Mongodb
 - Swr
 
-## How to use:
+## How to use in vs code:
 ```bash
 npm install
 npm run dev
